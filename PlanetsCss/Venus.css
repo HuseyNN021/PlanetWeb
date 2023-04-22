@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: white;
+    height: 100%;;
+}
+.Venus{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+section{
+    display: flex;
+    align-items: center;
+}
+h1{
+    text-align: center;
+
+}
+p{
+    text-align: center;
+    text-shadow: 0 0 5px #FF0000, 0 0 10px #0000FF;
+
+}
+.indicators{
+    display: flex;
+    justify-content: space-around;
+}
